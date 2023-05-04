@@ -167,7 +167,7 @@ function App() {
     setFeedback(` ${CONFIG.NFT_NAME} をミントしています。しばらくお待ちください。`);
     setClaimingNft(true);
     blockchain.smartContract.methods
-      .mint(mintAmount,allowlistMaxMintAmount,hexProof)
+      .mint(mintAmount, allowlistMaxMintAmount, hexProof)
       .send({
         // gasLimit: String(totalGasLimit),
         to: CONFIG.CONTRACT_ADDRESS,
