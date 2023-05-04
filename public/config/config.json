@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x077eAF8f16665bFc4E6d3f33e3A563569631cbc6",
+  "SCAN_LINK": "https://goerli.etherscan.io/token/0x077eAF8f16665bFc4E6d3f33e3A563569631cbc6",
+  "NETWORK": {
+    "NAME": "goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Maji Mechakucha Mahou Syojo",
+  "SYMBOL": "MMMMS",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 8000000000000000,
+  "DISPLAY_COST": 0.008,
+  "GAS_LIMIT": 2850000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/tereqn",
+  "SHOW_BACKGROUND": true
+}
