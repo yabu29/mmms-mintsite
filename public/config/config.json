@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x077eAF8f16665bFc4E6d3f33e3A563569631cbc6",
-  "SCAN_LINK": "https://goerli.etherscan.io/token/0x077eAF8f16665bFc4E6d3f33e3A563569631cbc6",
+  "CONTRACT_ADDRESS": "0xe205bAfF1f15244eB4EE730194571589390F5857",
+  "SCAN_LINK": "https://etherscan.io/token/0xe205bAfF1f15244eB4EE730194571589390F5857",
   "NETWORK": {
-    "NAME": "goerli",
+    "NAME": "Ethreum",
     "SYMBOL": "ETH",
-    "ID": 5
+    "ID": 1
   },
   "NFT_NAME": "Maji Mechakucha Mahou Syojo",
-  "SYMBOL": "MMMMS",
+  "SYMBOL": "MMMS",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 8000000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0.008,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/example",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mmms-magisupe",
   "SHOW_BACKGROUND": true
 }
